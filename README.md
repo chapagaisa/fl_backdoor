@@ -1,5 +1,5 @@
 # Backdoor Attacks in Federated Language Models
-
+![Backdoor](fig/federated_pipeline.png)
 This repository contains the federated text classification implementation used to evaluate backdoor attacks and BERT-based sample filtering.
 
 We ran our experiments on a Linux server with NVIDIA GPUs. The supplied `requirements.txt` specifies the following environment versions:
